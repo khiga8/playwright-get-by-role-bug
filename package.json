@@ -1,0 +1,29 @@
+{
+  "name": "playwright-get-by-role-bug",
+  "version": "1.0.0",
+  "description": "Minimal repro for playwright bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khiga8/playwright-get-by-role-bug.git"
+  },
+  "keywords": [
+    "playwright",
+    "bug"
+  ],
+  "author": "khiga8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khiga8/playwright-get-by-role-bug/issues"
+  },
+  "homepage": "https://github.com/khiga8/playwright-get-by-role-bug#readme",
+  "devDependencies": {
+
+    "@playwright/test": "^1.42.1",
+    "playwright": "^1.42.1",
+    "typescript": "^5.2.2"
+  }
+}
