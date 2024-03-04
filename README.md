@@ -2,6 +2,8 @@
 
 Minimal reproduction for playwright bug
 
+See [bug report](https://github.com/microsoft/playwright/issues/29796)
+
 ## Setup
 
 1. Run `npm install`
